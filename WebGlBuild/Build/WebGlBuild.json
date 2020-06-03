@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FenrirNice2020",
+"productVersion": "1.55",
+"dataUrl": "WebGlBuild.data.unityweb",
+"wasmCodeUrl": "WebGlBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGlBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGlBuild.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.19f1"
+}

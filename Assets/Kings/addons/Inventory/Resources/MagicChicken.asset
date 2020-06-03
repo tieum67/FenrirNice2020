@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4acc5f74860530468b093e7bd992ddc, type: 3}
+  m_Name: MagicChicken
+  m_EditorClassIdentifier: 
+  itemName: Magic Chicken
+  description: It lays golden Eggs, the wealth of your kingdom is secured! You receive
+    10 Gold every round.
+  image: {fileID: 21300000, guid: b97dd06e35b02d940b86108eb1b419c6, type: 3}
+  maxItems: 1
+  visible: 1
+  consumeType: 0
+  category: 0
+  newItemOverridePanel: {fileID: 0}
+  detailItemOverridePanel: {fileID: 1083547326705173119, guid: e69d6b88cc4ffd94593406204dfbb7a7,
+    type: 3}
+  itemColors:
+    iconColor: {r: 0.9333334, g: 0.6784314, b: 0.054901965, a: 1}
+    primaryColor: {r: 0.95294124, g: 0.4039216, b: 0.2392157, a: 1}
+    secondaryColor: {r: 1, g: 1, b: 1, a: 1}
+  consumeConditions:
+    conditions: []
+  consumeEffect:
+    result:
+      resultType: 0
+      modifiers:
+        valueChanges: []
+        extras: []
+        followUpCard: {fileID: 0}
+      conditions: []
+      modifiersTrue:
+        valueChanges: []
+        extras: []
+        followUpCard: {fileID: 0}
+      modifiersFalse:
+        valueChanges: []
+        extras: []
+        followUpCard: {fileID: 0}
+      randomModifiers: []

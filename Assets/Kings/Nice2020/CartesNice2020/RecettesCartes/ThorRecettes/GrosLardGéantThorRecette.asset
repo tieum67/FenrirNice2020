@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34d994289b3958f42b80120c9b0bd2af, type: 3}
+  m_Name: "GrosLardG\xE9antThorRecette"
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 1818390954452748, guid: 8de7b761e5cb2c849b9a0d5549e177e1, type: 3}
+  cardColor: {r: 1, g: 1, b: 1, a: 1}
+  cardFront: {fileID: 21300000, guid: 6b226ddead235a843b1b4e570eaf8095, type: 3}
+  cardBack: {fileID: 21300000, guid: 16e9eaffda055284598bf6dd17809934, type: 3}
+  icon: {fileID: 21300000, guid: fca68626ff7fadb4d834a220f1d2f2f5, type: 3}

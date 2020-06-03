@@ -1,0 +1,10 @@
+GroupName;CardName;StyleName;EventScript.titleText;EventScript.questionText;EventScript.answerLeft;EventScript.answerRight;EventScript.answerUp;EventScript.answerDown;;;
+MauvaisesCartes;CrachatChampignonIngredient;CrachatChampignonCardStyle;Crachat de champignon ;Card;non;oui;Text;Answer;Left;Answer;Right
+MauvaisesCartes;CrachatChatNoirIngredient;CrachatChatNoirCardStyle;Crachat de chat noir;Card;non;oui;Text;Answer;Left;Answer;Right
+MauvaisesCartes;DentSorcièreIngredient;DentSorcièreCardStyle;Dent de sorcière barbue;Card;non;oui;Text;Answer;Left;Answer;Right
+MauvaisesCartes;DoigtHumainIngredient;DoigtHumainCardStyle;Doigts d'homme;Card;non;oui;Text;Answer;Left;Answer;Right
+MauvaisesCartes;LangueArbreIngredient;LangueArbreCardStyle;Langue d'arbre à feuille;Card;non;oui;Text;Answer;Left;Answer;Right
+MauvaisesCartes;MorveTrollIngredient;MorveTrollCardStyle;Morve de troll;Card;non;oui;Text;Answer;Left;Answer;Right
+MauvaisesCartes;OdeurTrollIvrogneIngredient;OdeurTrollIvrognelCardStyle;odeur de troll ivrogne;Card;non;oui;Text;Answer;Left;Answer;Right
+MauvaisesCartes;TendonCosmiqueIngredient;TendonCosmiqueCardStyle;Tendon cosmique;Card;non;oui;Text;Answer;Left;Answer;Right
+MauvaisesCartes;TendonNainVolantIngredient;TendonNainVolantCardStyle;Tendon de nain volant;Card;non;oui;Text;Answer;Left;Answer;Right

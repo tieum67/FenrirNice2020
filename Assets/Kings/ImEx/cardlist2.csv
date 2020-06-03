@@ -1,0 +1,7 @@
+GroupName;CardName;StyleName;EventScript.titleText;EventScript.questionText;EventScript.answerLeft;EventScript.answerRight;EventScript.answerUp;EventScript.answerDown
+MauvaisesCartes;BruitPasChatNoirIngredient;BruitPasChatNoirCardStyle;Bruit de pas de chat noir;Question Text;non;oui;;
+MauvaisesCartes;CrachatOiseauIngredient;CrachatOiseauCardStyle;Crachat d'oiseau;Question Text;non;oui;;
+MauvaisesCartes;PoilFemmeBarbeIngredient;PoilFemmeBarbeCardStyle;Poil de femme à barbe;Question Text;non;oui;;
+MauvaisesCartes;RacineMontageIngredient;RacineMontagneCardStyle;Racines de montagne;Question Text;non;oui;;
+MauvaisesCartes;TendonOursIngredient;TendonOursCardStyle;tendon d'ours;Question Text;non;oui;;
+MauvaisesCartes;TouxPoissonIngredient;TouxPoissonCardStyle;Toux de poisson;Question Text;non;oui;;
