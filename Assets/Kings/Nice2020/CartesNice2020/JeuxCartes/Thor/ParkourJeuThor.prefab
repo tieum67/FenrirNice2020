@@ -316,7 +316,7 @@ GameObject:
   - component: {fileID: 114734209699886960}
   - component: {fileID: 114011970101671240}
   m_Layer: 0
-  m_Name: FaberLokiJeu 1
+  m_Name: ParkourJeuThor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -480,7 +480,8 @@ MonoBehaviour:
             min: 0
             max: 0
         extras: []
-        followUpCard: {fileID: 0}
+        followUpCard: {fileID: 6465437049315320769, guid: e659559d3363d2944bc0551abe470241,
+          type: 3}
         followUpDelay:
           min: 0
           max: 0
@@ -640,7 +641,8 @@ MonoBehaviour:
             min: 0
             max: 0
         extras: []
-        followUpCard: {fileID: 0}
+        followUpCard: {fileID: 6465437049315320769, guid: d135922066825d64d9b7168ed973d1d2,
+          type: 3}
         followUpDelay:
           min: 0
           max: 0
