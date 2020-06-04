@@ -458,27 +458,7 @@ MonoBehaviour:
     resultLeft:
       resultType: 0
       modifiers:
-        valueChanges:
-        - modificationType: 0
-          modifier: 5
-          valueAdd: 10
-          valueSet: 0
-          rndRangeAdd:
-            min: 0
-            max: 0
-          rndRangeSet:
-            min: 0
-            max: 0
-        - modificationType: 0
-          modifier: 6
-          valueAdd: -20
-          valueSet: 0
-          rndRangeAdd:
-            min: 0
-            max: 0
-          rndRangeSet:
-            min: 0
-            max: 0
+        valueChanges: []
         extras: []
         followUpCard: {fileID: 6465437049315320769, guid: b826a0357faf2514d8116fe86ebeb1f2,
           type: 3}
@@ -619,27 +599,7 @@ MonoBehaviour:
     resultRight:
       resultType: 0
       modifiers:
-        valueChanges:
-        - modificationType: 0
-          modifier: 5
-          valueAdd: -20
-          valueSet: 0
-          rndRangeAdd:
-            min: 0
-            max: 0
-          rndRangeSet:
-            min: 0
-            max: 0
-        - modificationType: 0
-          modifier: 6
-          valueAdd: 10
-          valueSet: 0
-          rndRangeAdd:
-            min: 0
-            max: 0
-          rndRangeSet:
-            min: 0
-            max: 0
+        valueChanges: []
         extras: []
         followUpCard: {fileID: 6465437049315320769, guid: b6d89f5bc962f7d428536c8d23d80ccc,
           type: 3}
