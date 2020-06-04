@@ -480,7 +480,8 @@ MonoBehaviour:
             min: 0
             max: 0
         extras: []
-        followUpCard: {fileID: 0}
+        followUpCard: {fileID: 6465437049315320769, guid: 16c46964cbfa5aa49b341fa81f6dc9e7,
+          type: 3}
         followUpDelay:
           min: 0
           max: 0
@@ -640,7 +641,8 @@ MonoBehaviour:
             min: 0
             max: 0
         extras: []
-        followUpCard: {fileID: 0}
+        followUpCard: {fileID: 6465437049315320769, guid: e3505b91cde302b4f8895f5abaf16c89,
+          type: 3}
         followUpDelay:
           min: 0
           max: 0
