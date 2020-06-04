@@ -16,6 +16,12 @@ PrefabInstance:
       propertyPath: m_Text
       value: "Hummm... pas mal !\n\n Les dieux auraient bien aim\xE9 partager.\r\n"
       objectReference: {fileID: 0}
+    - target: {fileID: 114691296766683156, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2898cbd81d1c9694b84f9048d22ba67e,
+        type: 3}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.size
@@ -55,6 +61,16 @@ PrefabInstance:
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[1].modifier
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 224206319859092360, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -436
+      objectReference: {fileID: 0}
+    - target: {fileID: 224206319859092360, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 22.25
       objectReference: {fileID: 0}
     - target: {fileID: 224275568673289112, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -161,5 +177,12 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 6768723111034117856, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: e85f802cad7f0cd4298b3d896a779555,
+        type: 3}
+    m_RemovedComponents:
+    - {fileID: 114484288795279350, guid: 2fa5ee508a829a64781deae9dcaec1d4, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 2fa5ee508a829a64781deae9dcaec1d4, type: 3}

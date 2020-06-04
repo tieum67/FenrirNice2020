@@ -14,9 +14,15 @@ PrefabInstance:
     - target: {fileID: 114309495523116190, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: m_Text
-      value: "Fenrir \xE0 encore faim,\nce petit dessert \nlui aurait fait du bien,
-        \n\nmais \nil n'est pas perdu \npour tout le monde...\r\n"
+      value: "Fenrir \xE0 encore faim, ce petit dessert  ui aurait fait du bien, \nmais
+        l n'est pas perdu pour tout le monde...\r\n"
       objectReference: {fileID: 0}
+    - target: {fileID: 114691296766683156, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2898cbd81d1c9694b84f9048d22ba67e,
+        type: 3}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.size
@@ -57,6 +63,26 @@ PrefabInstance:
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[1].valueAdd
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 224206319859092360, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -340.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 224206319859092360, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -1.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 224206319859092360, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 377
+      objectReference: {fileID: 0}
+    - target: {fileID: 224206319859092360, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 703.5
       objectReference: {fileID: 0}
     - target: {fileID: 224275568673289112, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -163,5 +189,11 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 1752733955384227891, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -27
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 114484288795279350, guid: 2fa5ee508a829a64781deae9dcaec1d4, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 2fa5ee508a829a64781deae9dcaec1d4, type: 3}

@@ -30,7 +30,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 224275568673289112}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -107,7 +107,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 224275568673289112}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 24cf97a1d42e8e844aeccf61d1f239ac, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 16e9eaffda055284598bf6dd17809934, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -165,7 +165,6 @@ GameObject:
   - component: {fileID: 95138307080615164}
   - component: {fileID: 114734209699886960}
   - component: {fileID: 114011970101671240}
-  - component: {fileID: 114484288795279350}
   m_Layer: 0
   m_Name: "L\xE9gumesMielleuxNon"
   m_TagString: Untagged
@@ -185,6 +184,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 224206319859092360}
+  - {fileID: 3094309535054301956}
   - {fileID: 224451856618848714}
   - {fileID: 224341532243370806}
   - {fileID: 224507305204046862}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 094d736dc383cb245bd9ac60eb814b7a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e9ce8eb74495c0349948d735ff8bfba8, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -279,7 +279,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textFields:
     titleText:
-      textContent: Template Card 01
+      textContent: 
       textField: {fileID: 0}
     questionText:
       textContent: "Dommage, avec cette recette les dieux pensaient faire manger quelques
@@ -648,24 +648,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1eb28b3bcaaf8304cbe105d65ccc31d2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &114484288795279350
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1818390954452748}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4f042d6af56c08a4e889374df48d1c89, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  style: {fileID: 11400000, guid: 55e725a9dcf0e294491180f94ee3706b, type: 2}
-  cardImages:
-    color: {r: 1, g: 1, b: 1, a: 1}
-    front: {fileID: 114691296766683156}
-    back: {fileID: 114606702617659470}
-  iconImage: {fileID: 0}
 --- !u!1 &1865880124925572
 GameObject:
   m_ObjectHideFlags: 0
@@ -700,8 +682,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 27.2}
-  m_SizeDelta: {x: 694.5, y: 673.4}
+  m_AnchoredPosition: {x: 9.8, y: -372.9}
+  m_SizeDelta: {x: 724.8, y: 303.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222561243514118444
 CanvasRenderer:
@@ -742,8 +724,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Dommage,\n avec cette recette, \n\nles dieux pensaient \nfaire manger quelques
-    l\xE9gumes \n\xE0 Fenrir\r\n"
+  m_Text: "Dommage, avec cette recette, \nes dieux pensaient  aire manger quelques
+    l\xE9gumes \xE0 Fenrir\r\n"
 --- !u!1 &1871922396327198
 GameObject:
   m_ObjectHideFlags: 0
@@ -774,7 +756,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 224275568673289112}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -847,7 +829,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 224275568673289112}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -894,3 +876,76 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Answer Left
+--- !u!1 &7123929812913499215
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3094309535054301956}
+  - component: {fileID: 4472799831171540070}
+  - component: {fileID: 228384478309975347}
+  m_Layer: 0
+  m_Name: Icon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3094309535054301956
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7123929812913499215}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224275568673289112}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 25, y: -74}
+  m_SizeDelta: {x: 512, y: 512}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &4472799831171540070
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7123929812913499215}
+  m_CullTransparentMesh: 0
+--- !u!114 &228384478309975347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7123929812913499215}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.95294124, g: 0.95294124, b: 0.95294124, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 21300000, guid: 368039d6b5697e64aa836757a4ec04d4, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
