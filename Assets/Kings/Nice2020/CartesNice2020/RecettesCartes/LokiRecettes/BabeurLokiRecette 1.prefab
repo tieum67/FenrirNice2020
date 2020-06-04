@@ -455,7 +455,7 @@ MonoBehaviour:
   isDrawable: 1
   cardPropability: 1
   maxDraws: 1
-  redrawBlockCnt: 5
+  redrawBlockCnt: 10
   conditions: []
   Results:
     resultLeft:

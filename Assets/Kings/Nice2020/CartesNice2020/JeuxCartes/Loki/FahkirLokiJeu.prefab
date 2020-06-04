@@ -452,7 +452,7 @@ MonoBehaviour:
   isDrawable: 1
   cardPropability: 1
   maxDraws: 100
-  redrawBlockCnt: 5
+  redrawBlockCnt: 10
   conditions: []
   Results:
     resultLeft:
@@ -599,27 +599,7 @@ MonoBehaviour:
     resultRight:
       resultType: 0
       modifiers:
-        valueChanges:
-        - modificationType: 0
-          modifier: 5
-          valueAdd: 10
-          valueSet: 0
-          rndRangeAdd:
-            min: 0
-            max: 0
-          rndRangeSet:
-            min: 0
-            max: 0
-        - modificationType: 0
-          modifier: 6
-          valueAdd: 10
-          valueSet: 0
-          rndRangeAdd:
-            min: 0
-            max: 0
-          rndRangeSet:
-            min: 0
-            max: 0
+        valueChanges: []
         extras: []
         followUpCard: {fileID: 6465437049315320769, guid: 47563d48a9e68a148abf7b5bc212262f,
           type: 3}
