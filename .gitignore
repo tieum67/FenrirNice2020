@@ -74,3 +74,8 @@ Assets/Plugins/Sirenix/Demos/Custom Drawers.unitypackage.meta
 Assets/Plugins/Sirenix/Demos/Editor Windows.unitypackage.meta
 Assets/Plugins/Sirenix/Demos/Sample - RPG Editor.unitypackage.meta
 Assets/Plugins/Sisus/Power Inspector/Demo/Power Inspector Demo Installer.unitypackage.meta
+*.zip
+Build06juinMac.app/
+Build06JuinW10/
+SerializedBuildInfo/StandaloneOSX_2020_06_04_22_40_02.ahbuildinfo
+SerializedBuildInfo/StandaloneWindows_2020_06_04_22_35_47.ahbuildinfo
