@@ -3,6 +3,7 @@
   <component name="ContentModelUserStore">
     <attachedFolders />
     <explicitIncludes>
+      <Path>Assets</Path>
       <Path>Library/PackageCache/com.unity.ads@3.0.3</Path>
       <Path>Library/PackageCache/com.unity.analytics@3.3.2</Path>
       <Path>Library/PackageCache/com.unity.collab-proxy@1.2.16</Path>
@@ -17,12 +18,14 @@
       <Path>ProjectSettings</Path>
     </explicitIncludes>
     <explicitExcludes>
+      <Path>.git</Path>
       <Path>.idea</Path>
       <Path>BuildW1025mai</Path>
       <Path>BuildW1025maiCinematique256LowQualiy</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>SerializedBuildInfo</Path>
+      <Path>Temp</Path>
       <Path>WebGlBuild</Path>
       <Path>obj</Path>
     </explicitExcludes>

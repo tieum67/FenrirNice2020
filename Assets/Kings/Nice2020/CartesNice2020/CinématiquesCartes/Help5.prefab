@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1818390954452748, guid: 2fa5ee508a829a64781deae9dcaec1d4, type: 3}
       propertyPath: m_Name
-      value: Help1
+      value: Help4
       objectReference: {fileID: 0}
     - target: {fileID: 114309495523116190, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -17,12 +17,6 @@ PrefabInstance:
       value: "\nFenrir aurait aim\xE9 go\xFBter...\n\n les dieux ont pr\xE9par\xE9
         \nce plat avec amour.\r\n\n"
       objectReference: {fileID: 0}
-    - target: {fileID: 114606702617659470, guid: 2fa5ee508a829a64781deae9dcaec1d4,
-        type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 16e9eaffda055284598bf6dd17809934,
-        type: 3}
     - target: {fileID: 114691296766683156, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: m_Sprite
@@ -32,33 +26,32 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.size
-      value: 0
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[0].modifier
-      value: 5
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[1].modifier
-      value: 6
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[0].valueAdd
-      value: -10
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[1].valueAdd
-      value: -20
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: textFields.questionText.textContent
-      value: "Aide les dieux \xE0 s'occuper de Fenrir en lui donnant \xE0 manger et
-        en jouant avec lui"
+      value: "Choisis les bons ingr\xE9dients, avant la lib\xE9ration de Fenrir !"
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -73,12 +66,12 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[2].modifier
-      value: 20
+      value: 24
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[2].valueAdd
-      value: -20
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -99,14 +92,47 @@ PrefabInstance:
         type: 3}
       propertyPath: Results.resultLeft.modifiers.followUpCard
       value: 
-      objectReference: {fileID: 6368609166076856932, guid: e3982109fc014ad4a814f027e076505f,
-        type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: Results.resultRight.modifiers.followUpCard
       value: 
-      objectReference: {fileID: 6368609166076856932, guid: e3982109fc014ad4a814f027e076505f,
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[0].modificationType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[0].valueSet
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[1].modificationType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[1].valueSet
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[3].modificationType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[3].modifier
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[3].valueSet
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 224275568673289112, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: m_LocalPosition.x

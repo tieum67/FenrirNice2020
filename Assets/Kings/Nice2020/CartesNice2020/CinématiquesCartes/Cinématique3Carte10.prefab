@@ -140,7 +140,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 24cf97a1d42e8e844aeccf61d1f239ac, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 16e9eaffda055284598bf6dd17809934, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -379,7 +379,8 @@ MonoBehaviour:
       modifiers:
         valueChanges: []
         extras: []
-        followUpCard: {fileID: 0}
+        followUpCard: {fileID: 6368609166076856932, guid: f026fa335ccb7164eb3a20673408f20e,
+          type: 3}
         followUpDelay:
           min: 0
           max: 0
@@ -519,7 +520,8 @@ MonoBehaviour:
       modifiers:
         valueChanges: []
         extras: []
-        followUpCard: {fileID: 0}
+        followUpCard: {fileID: 6368609166076856932, guid: f026fa335ccb7164eb3a20673408f20e,
+          type: 3}
         followUpDelay:
           min: 0
           max: 0
@@ -658,37 +660,7 @@ MonoBehaviour:
   swipeType: 0
   additionalChoices: 0
   changeExtrasOnCardDespawn: []
-  changeValueOnCardDespawn:
-  - modificationType: 1
-    modifier: 19
-    valueAdd: 0
-    valueSet: 0
-    rndRangeAdd:
-      min: 0
-      max: 0
-    rndRangeSet:
-      min: 0
-      max: 0
-  - modificationType: 1
-    modifier: 22
-    valueAdd: 0
-    valueSet: 1
-    rndRangeAdd:
-      min: 0
-      max: 0
-    rndRangeSet:
-      min: 0
-      max: 0
-  - modificationType: 1
-    modifier: 24
-    valueAdd: 0
-    valueSet: 1
-    rndRangeAdd:
-      min: 0
-      max: 0
-    rndRangeSet:
-      min: 0
-      max: 0
+  changeValueOnCardDespawn: []
   OnCardSpawn:
     m_PersistentCalls:
       m_Calls: []

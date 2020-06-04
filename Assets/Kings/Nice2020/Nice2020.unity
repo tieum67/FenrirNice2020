@@ -46200,6 +46200,26 @@ MonoBehaviour:
       gamedictionary_comparer: 
     groupCards:
     - {fileID: 4942238426514067357, guid: 702144f5af8a1f3498b398010fafb857, type: 3}
+  - groupName: Game Overs
+    subStackCondition:
+    - type: 0
+      value: 19
+      valueMin: 1
+      valueMax: 1
+      compareType: 0
+      rValue: 0
+      itemCompareType: 0
+      item: {fileID: 0}
+      itemCmpValue: 0
+      gamedictionary_key: 
+      gamedictionary_comparer: 
+    groupCards:
+    - {fileID: 1818390954452748, guid: a12f060222c62b04eb9db013a40af2a3, type: 3}
+    - {fileID: 1818390954452748, guid: e91f015f5a7b6214fa302de847492ba5, type: 3}
+    - {fileID: 1818390954452748, guid: 5e882bae5b7e6504fa789ebf25865674, type: 3}
+    - {fileID: 1818390954452748, guid: c0264486700a5de42822c45770333945, type: 3}
+    - {fileID: 1818390954452748, guid: b9fb51a4d732e1f4183e126439a3b3c8, type: 3}
+    - {fileID: 1818390954452748, guid: 423e73fdbcece1146abd4ab5f9edae3f, type: 3}
   cardDrawCount:
     cnt: []
   cardBlockCount:
@@ -51578,7 +51598,19 @@ MonoBehaviour:
           m_CallState: 2
     OnMax:
       m_PersistentCalls:
-        m_Calls: []
+        m_Calls:
+        - m_Target: {fileID: 1818390954452748, guid: 6d5970c6cf2c75548b0769710f6575bc,
+            type: 3}
+          m_MethodName: 
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: 
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
     OnMin:
       m_PersistentCalls:
         m_Calls: []
@@ -56103,7 +56135,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -110}
+  m_AnchoredPosition: {x: 0, y: -175}
   m_SizeDelta: {x: -80, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1675464346
@@ -72509,8 +72541,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6e811f8421d3494aa7d9ef4131b712d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  res: {x: 620, y: 603}
-  ratio: 1.0281924
+  res: {x: 775, y: 869}
+  ratio: 0.89182967
   ratioEvents:
   - ratio: 0
     transformModifications: []
@@ -72736,7 +72768,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  res: {x: 620, y: 603}
+  res: {x: 775, y: 869}
 --- !u!4 &2093690554
 Transform:
   m_ObjectHideFlags: 0
