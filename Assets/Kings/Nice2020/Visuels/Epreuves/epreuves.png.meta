@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 68f2bbedd7a29d4478620e254ba343f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7501422993974910057
+    second: fond_epreuve_balder
+  - first:
+      213: 1335610923886221325
+    second: fond_epreuve_loki
+  - first:
+      213: 2204863490188682374
+    second: fond_epreuve_thor
+  - first:
+      213: -8925375240413637451
+    second: texte_epreuve_chaine
+  - first:
+      213: 1825701908095781375
+    second: visuel__epreuve_granit
+  - first:
+      213: -2765999287113306138
+    second: visuel_epreuve_filet
+  - first:
+      213: 6499550606204932346
+    second: visuel_epreuve_niche
+  - first:
+      213: 4543270201352075510
+    second: visuel_epreuve_pendu
+  - first:
+      213: 8141074038859688260
+    second: visuel_epreuve_pieds
+  - first:
+      213: 4043554951178774241
+    second: visuel_epreuve_sous_eau
+  - first:
+      213: 2804559136544385432
+    second: visuel_epreuve_sous_terre
+  - first:
+      213: -6274805809733508868
+    second: visuel_epreuve_suspendu
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fond_epreuve_balder
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 662
+        width: 257
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7501422993974910057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fond_epreuve_loki
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 299
+        width: 257
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1335610923886221325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fond_epreuve_thor
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 662
+        width: 257
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2204863490188682374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: texte_epreuve_chaine
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 477
+        width: 202
+        height: 183
+      alignment: 9
+      pivot: {x: 0.40841585, y: 0.27595627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -8925375240413637451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel__epreuve_granit
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 321
+        width: 142
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5105634, y: 0.22402598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1825701908095781375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_epreuve_filet
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 28
+        width: 241
+        height: 93
+      alignment: 9
+      pivot: {x: 0.51244813, y: 0.17741935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2765999287113306138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_epreuve_niche
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 178
+        width: 231
+        height: 141
+      alignment: 9
+      pivot: {x: 0.52597404, y: 0.4716312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6499550606204932346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_epreuve_pendu
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 71
+        width: 85
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4882353, y: 0.32079646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4543270201352075510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_epreuve_pieds
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 452
+        width: 147
+        height: 208
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.30528846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8141074038859688260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_epreuve_sous_eau
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 301
+        width: 181
+        height: 149
+      alignment: 9
+      pivot: {x: 0.4834254, y: 0.19798657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4043554951178774241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_epreuve_sous_terre
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 220
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5022727, y: 0.29094827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2804559136544385432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_epreuve_suspendu
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 123
+        width: 181
+        height: 176
+      alignment: 9
+      pivot: {x: 0.38950276, y: 0.25852272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6274805809733508868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

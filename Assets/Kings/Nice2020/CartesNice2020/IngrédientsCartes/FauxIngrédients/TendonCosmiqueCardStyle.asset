@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefab: {fileID: 1818390954452748, guid: 63267864b92a18c47bcb7afca4b925e8, type: 3}
   cardColor: {r: 1, g: 1, b: 1, a: 1}
-  cardFront: {fileID: 21300000, guid: 094d736dc383cb245bd9ac60eb814b7a, type: 3}
+  cardFront: {fileID: 7447452798346482665, guid: 9aeb3289a02f27d4786f0488012db50b,
+    type: 3}
   cardBack: {fileID: 21300000, guid: 16e9eaffda055284598bf6dd17809934, type: 3}
-  icon: {fileID: 21300000, guid: ff6dd9df3372e564aa7b5ae44deaf07f, type: 3}
+  icon: {fileID: 4138320585777466336, guid: 9aeb3289a02f27d4786f0488012db50b, type: 3}

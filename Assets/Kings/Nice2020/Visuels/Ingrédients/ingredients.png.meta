@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 9aeb3289a02f27d4786f0488012db50b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7447452798346482665
+    second: fond_ingredient
+  - first:
+      213: 4055580280699333922
+    second: visuel_ingedient-crachat-chat-noir
+  - first:
+      213: -4662273435692360132
+    second: visuel_ingedient-racines-montagne
+  - first:
+      213: -2126004405122422737
+    second: visuel_ingredient-bruit-pas-chat
+  - first:
+      213: 6912450414944659899
+    second: visuel_ingredient-crachat-champignon
+  - first:
+      213: -2528527646982606701
+    second: visuel_ingredient-crachat-oiseau
+  - first:
+      213: -4680328573594809961
+    second: visuel_ingredient-dent-sorciere
+  - first:
+      213: 3867237206849513704
+    second: visuel_ingredient-doigt-humain
+  - first:
+      213: 7053061680673093854
+    second: visuel_ingredient-femme-barbe
+  - first:
+      213: -7913422553654648195
+    second: visuel_ingredient-langue-arbre
+  - first:
+      213: 4368105847575243924
+    second: visuel_ingredient-morve-troll
+  - first:
+      213: 4550141078057338340
+    second: visuel_ingredient-odeur-troll-ivrogne
+  - first:
+      213: 4138320585777466336
+    second: visuel_ingredient-tendon-cosmique
+  - first:
+      213: 7494287346871469701
+    second: visuel_ingredient-tendon-nain-volant
+  - first:
+      213: 383576002402833069
+    second: visuel_ingredient-tendon-ours
+  - first:
+      213: -5704480836716653858
+    second: visuel_ingredient-toux-poisson
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fond_ingredient
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 662
+        width: 258
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7447452798346482665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingedient-crachat-chat-noir
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 424
+        width: 209
+        height: 187
+      alignment: 9
+      pivot: {x: 0.57416266, y: 0.45187166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4055580280699333922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingedient-racines-montagne
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 842
+        width: 141
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4822695, y: 0.4116022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4662273435692360132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-bruit-pas-chat
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 826
+        width: 156
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5769231, y: 0.5406091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2126004405122422737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-crachat-champignon
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 855
+        width: 160
+        height: 168
+      alignment: 9
+      pivot: {x: 0.475, y: 0.5208333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 6912450414944659899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-crachat-oiseau
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 643
+        width: 196
+        height: 181
+      alignment: 9
+      pivot: {x: 0.34183672, y: 0.4558011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -2528527646982606701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-dent-sorciere
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 375
+        width: 208
+        height: 285
+      alignment: 9
+      pivot: {x: 0.5048077, y: 0.36666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4680328573594809961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-doigt-humain
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 613
+        width: 169
+        height: 202
+      alignment: 9
+      pivot: {x: 0.46153846, y: 0.4430693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 3867237206849513704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-femme-barbe
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 817
+        width: 150
+        height: 206
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.37135923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7053061680673093854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-langue-arbre
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 520
+        width: 181
+        height: 164
+      alignment: 9
+      pivot: {x: 0.49723756, y: 0.53963417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -7913422553654648195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-morve-troll
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 191
+        height: 263
+      alignment: 9
+      pivot: {x: 0.34031415, y: 0.31368822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4368105847575243924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-odeur-troll-ivrogne
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 125
+        width: 191
+        height: 248
+      alignment: 9
+      pivot: {x: 0.52879584, y: 0.3407258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4550141078057338340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-tendon-cosmique
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 160
+        height: 97
+      alignment: 9
+      pivot: {x: 0.475, y: 0.8505155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4138320585777466336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-tendon-nain-volant
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 686
+        width: 189
+        height: 167
+      alignment: 9
+      pivot: {x: 0.47089946, y: 0.51796407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 7494287346871469701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-tendon-ours
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 856
+        width: 142
+        height: 167
+      alignment: 9
+      pivot: {x: 0.48591548, y: 0.5479042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 383576002402833069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_ingredient-toux-poisson
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 421
+        width: 169
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5029586, y: 0.4205021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5704480836716653858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

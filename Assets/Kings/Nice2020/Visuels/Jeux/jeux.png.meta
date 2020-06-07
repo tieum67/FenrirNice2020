@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 35e5c4a37ce20cd43a6af8923208c0d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1419845653234799484
+    second: fond_jeux_balder
+  - first:
+      213: -6568780520432760752
+    second: fond_jeux_loki
+  - first:
+      213: 844753688557624694
+    second: fond_jeux_thor
+  - first:
+      213: 2535324217325209394
+    second: visuel_eu-mollky
+  - first:
+      213: -4083733630280510122
+    second: visuel_jeu-123odin
+  - first:
+      213: -1797017976627345584
+    second: visuel_jeu-cola-maya
+  - first:
+      213: -6579651610982931140
+    second: visuel_jeu-pafheblir
+  - first:
+      213: 8973463534264536807
+    second: visuel_jeu-parkour
+  - first:
+      213: -9041030585739636687
+    second: visuel_jeu-toga-honk
+  - first:
+      213: -5620589073248830882
+    second: visuel_jeu-walkerproff
+  - first:
+      213: -6201227566042655367
+    second: visuel_jeux-faber
+  - first:
+      213: 740839866508296925
+    second: visuel_jeux-fakhir
+  - first:
+      213: 4389082010993876326
+    second: visuel_jeux-glimmar
+  - first:
+      213: 1457569370940703691
+    second: visuel_jeux-histoire
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fond_jeux_balder
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 662
+        width: 257
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1419845653234799484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fond_jeux_loki
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 299
+        width: 257
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6568780520432760752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fond_jeux_thor
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 662
+        width: 257
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 844753688557624694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_eu-mollky
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 856
+        width: 103
+        height: 167
+      alignment: 9
+      pivot: {x: 0.50970876, y: 0.3443114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 2535324217325209394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeu-123odin
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 250
+        height: 193
+      alignment: 9
+      pivot: {x: 0.494, y: 0.49481866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -4083733630280510122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeu-cola-maya
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 519
+        width: 244
+        height: 141
+      alignment: 9
+      pivot: {x: 0.49385247, y: 0.23758866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -1797017976627345584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeu-pafheblir
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 116
+        width: 249
+        height: 181
+      alignment: 9
+      pivot: {x: 0.50401604, y: 0.2845304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6579651610982931140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeu-parkour
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 743
+        width: 246
+        height: 148
+      alignment: 9
+      pivot: {x: 0.50609756, y: 0.2533784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 8973463534264536807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeu-toga-honk
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 248
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4858871, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -9041030585739636687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeu-walkerproff
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 574
+        width: 245
+        height: 167
+      alignment: 9
+      pivot: {x: 0.49183673, y: 0.41017964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -5620589073248830882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeux-faber
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 336
+        width: 123
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5081301, y: 0.32872927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: -6201227566042655367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeux-fakhir
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 893
+        width: 250
+        height: 130
+      alignment: 9
+      pivot: {x: 0.49, y: 0.2653846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 740839866508296925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeux-glimmar
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 717
+        width: 183
+        height: 137
+      alignment: 9
+      pivot: {x: 0.48360655, y: 0.229927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 4389082010993876326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: visuel_jeux-histoire
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 859
+        width: 123
+        height: 164
+      alignment: 9
+      pivot: {x: 0.5, y: 0.28963414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 
+      internalID: 1457569370940703691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

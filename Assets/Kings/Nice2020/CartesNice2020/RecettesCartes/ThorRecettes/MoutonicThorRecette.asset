@@ -15,5 +15,5 @@ MonoBehaviour:
   prefab: {fileID: 1818390954452748, guid: 69c31210ecb5a6145bea886fc923f39c, type: 3}
   cardColor: {r: 1, g: 1, b: 1, a: 1}
   cardFront: {fileID: 21300000, guid: 6b226ddead235a843b1b4e570eaf8095, type: 3}
-  cardBack: {fileID: 21300000, guid: 24cf97a1d42e8e844aeccf61d1f239ac, type: 3}
+  cardBack: {fileID: 21300000, guid: 16e9eaffda055284598bf6dd17809934, type: 3}
   icon: {fileID: 21300000, guid: 4343ff36a51f80540a5c7b5583b02a89, type: 3}
