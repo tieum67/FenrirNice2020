@@ -244,7 +244,7 @@ GameObject:
   - component: {fileID: 114806189092995140}
   - component: {fileID: 114610775373210628}
   m_Layer: 0
-  m_Name: "R\xE9ussiGameOver"
+  m_Name: "R\xE9ussiNiveau3GameOver"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -357,10 +357,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textFields:
     titleText:
-      textContent: Game Over
+      textContent: Bravp !
       textField: {fileID: 114090687538468844}
     questionText:
-      textContent: "Gagn\xE9 !"
+      textContent: "Le loup est enchain\xE9, c'est gagn\xE9 !"
       textField: {fileID: 114309495523116190}
     answerLeft:
       textContent: Oh no!
@@ -393,7 +393,51 @@ MonoBehaviour:
     gamedictionary_key: 
     gamedictionary_comparer: 
   - type: 0
+    value: 10
+    valueMin: 1
+    valueMax: 1
+    compareType: 0
+    rValue: 0
+    itemCompareType: 0
+    item: {fileID: 0}
+    itemCmpValue: 1
+    gamedictionary_key: 
+    gamedictionary_comparer: 
+  - type: 0
     value: 8
+    valueMin: 1
+    valueMax: 1
+    compareType: 0
+    rValue: 0
+    itemCompareType: 0
+    item: {fileID: 0}
+    itemCmpValue: 1
+    gamedictionary_key: 
+    gamedictionary_comparer: 
+  - type: 0
+    value: 9
+    valueMin: 1
+    valueMax: 1
+    compareType: 0
+    rValue: 0
+    itemCompareType: 0
+    item: {fileID: 0}
+    itemCmpValue: 1
+    gamedictionary_key: 
+    gamedictionary_comparer: 
+  - type: 0
+    value: 11
+    valueMin: 1
+    valueMax: 1
+    compareType: 0
+    rValue: 0
+    itemCompareType: 0
+    item: {fileID: 0}
+    itemCmpValue: 1
+    gamedictionary_key: 
+    gamedictionary_comparer: 
+  - type: 0
+    value: 12
     valueMin: 1
     valueMax: 1
     compareType: 0
