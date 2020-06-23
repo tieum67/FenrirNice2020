@@ -363,10 +363,10 @@ MonoBehaviour:
       textContent: Le loup est trop puissant !
       textField: {fileID: 114309495523116190}
     answerLeft:
-      textContent: Oh no!
+      textContent: "Ah, j'y \xE9tais presque !"
       textField: {fileID: 114616901005016922}
     answerRight:
-      textContent: Why!?
+      textContent: Noooon !
       textField: {fileID: 114947929046483754}
     answerUp:
       textContent: 
@@ -690,6 +690,17 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: SonPerdu
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 114806189092995140}
+        m_MethodName: GlobalMessage
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: mute_music
           m_BoolArgument: 0
         m_CallState: 2
   OnCardDespawn:

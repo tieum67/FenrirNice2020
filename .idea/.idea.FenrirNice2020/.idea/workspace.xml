@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ca4e5e2-88c2-4d32-a964-512b3803a631" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FenrirNice2020/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FenrirNice2020/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FenrirNice2020/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FenrirNice2020/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Cinématique3Carte1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Cinématique3Carte1.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Cinématique3Carte10.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Cinématique3Carte10.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help2.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help3.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help4.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help4.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help4.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help5.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help5.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/Help5.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/cine-intro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/cine-intro.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/cinematiques.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/cinematiques.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/cinematiques.tpsheet" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/cinematiques.tpsheet.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduDieuMaxGameOver.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduDieuMaxGameOver.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduDieuxMinGameOver.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduDieuxMinGameOver.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduLoupMaxGameOver.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduLoupMaxGameOver.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduLoupMinGameOver.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduLoupMinGameOver.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduNiveau3GameOver.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/PerduNiveau3GameOver.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/RéussiNiveau3GameOver.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/GameOvers/RéussiNiveau3GameOver.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/Nice2020.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/Nice2020.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/Sons/Musiques/5-Niveau-1.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/Sons/Musiques/5-Niveau-1.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/Sons/Musiques/6-Niveau-2.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/Sons/Musiques/6-Niveau-2.mp3.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/Sons/Musiques/Cinématique.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/Sons/Musiques/Cinématique.wav.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/codeandweb.com/Editor/SettingsTexturePackerImporter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/codeandweb.com/Editor/SettingsTexturePackerImporter.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +15,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Kings/scripts/ValueScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Kings/scripts/CountryNameGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Energy Bar Toolkit/Scripts/uGUI/FilledRendererUGUI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Kings/scripts/GameStateManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/TestMessageNice.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files (x86)/2019.2.19f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Slider.cs" root0="SKIP_HIGHLIGHTING" />
@@ -115,6 +87,7 @@
       <workItem from="1590394755875" duration="3090000" />
       <workItem from="1590483655814" duration="1479000" />
       <workItem from="1592919197960" duration="595000" />
+      <workItem from="1592943219790" duration="636000" />
     </task>
     <servers />
   </component>
@@ -124,9 +97,10 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="WindowStateProjectService">
-    <state x="411" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590266846933">
+    <state x="411" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592943242181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="411" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1120.660@0.0.1536.824" timestamp="1592943242181" />
     <state x="411" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1680.1010@0.0.1536.824" timestamp="1590266846933" />
   </component>
 </project>
