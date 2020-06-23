@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2593543-d67a-427b-ac00-a77ccbe2a28f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Energy Bar Toolkit/Dreprecated/EnergyBarToolkitNGUI 3.0.8.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Energy Bar Toolkit/EnergyBarToolkitPlaymaker.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/ChaineGraniteNon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/ChaineGraniteNon.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/ChaineGraniteOui.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/ChaineGraniteOui.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/NicheNon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/NicheNon.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/NicheOui.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/NicheOui.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/PenduNon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/PenduNon.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/PenduOUi.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/PenduOUi.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/PiedsNOn.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/PiedsNOn.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/PiedsOui.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/PiedsOui.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SautChaineNon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SautChaineNon.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SautChaineOui.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SautChaineOui.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousEauNon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousEauNon.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousEauOUi.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousEauOUi.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousFiletNon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousFiletNon.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousFiletOui.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousFiletOui.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousTerreNon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousTerreNon.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousTerreOui.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SousTerreOui.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SuspenduNon.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SuspenduNon.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SuspenduOui.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Kings/Nice2020/CartesNice2020/EpreuvesCartes/SuspenduOui.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Kings/imports.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sisus/Power Inspector/Code/Editor/Compatibility/Compatibility Packages/NaughtyAttributes/package.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Sisus/Power Inspector/Demo.meta" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1diF7fZrqtsblVE3oE9rfnbdVLQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2593543-d67a-427b-ac00-a77ccbe2a28f" name="Default Changelist" comment="" />
+      <created>1592899842031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592899842031</updated>
+      <workItem from="1592899847527" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
