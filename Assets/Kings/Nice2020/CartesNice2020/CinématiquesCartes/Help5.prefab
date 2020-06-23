@@ -30,8 +30,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[0].modifier
-      value: 23
+      value: 19
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -46,12 +51,13 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[1].valueAdd
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: textFields.questionText.textContent
-      value: "Choisis les bons ingr\xE9dients, avant la lib\xE9ration de Fenrir !"
+      value: "Bruits de pas de chat noir, toux de poisson, crachat d'oiseau, tendon
+        d'ours, poil de femme \xE0 barbe, racine de montagne"
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -71,17 +77,17 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[2].valueAdd
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[2].modificationType
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[2].valueSet
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -101,7 +107,7 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[0].modificationType
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -111,27 +117,57 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[1].modificationType
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[1].valueSet
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[3].modificationType
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[3].modifier
-      value: 19
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[3].valueSet
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 6481419637839140896}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: GlobalMessage
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: MusicNext
       objectReference: {fileID: 0}
     - target: {fileID: 224275568673289112, guid: 2fa5ee508a829a64781deae9dcaec1d4,
         type: 3}
@@ -246,3 +282,15 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 114484288795279350, guid: 2fa5ee508a829a64781deae9dcaec1d4, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 2fa5ee508a829a64781deae9dcaec1d4, type: 3}
+--- !u!114 &6481419637839140896 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114011970101671240, guid: 2fa5ee508a829a64781deae9dcaec1d4,
+    type: 3}
+  m_PrefabInstance: {fileID: 6370251076815940968}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eb28b3bcaaf8304cbe105d65ccc31d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

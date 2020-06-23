@@ -2,7 +2,7 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
-- Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/cinematiques.tpsheet
+- Assets/Kings/Nice2020/Visuels/Cinématiques/cinematiques.tpsheet
 - Assets/Kings/Nice2020/Visuels/Epreuves/epreuves.tpsheet
 - Assets/Kings/Nice2020/Visuels/Ingrédients/ingredients.tpsheet
 - Assets/Kings/Nice2020/Visuels/Jeux/jeux.tpsheet
@@ -11,7 +11,7 @@ tpsheetFileNames:
 - Assets/Kings/Nice2020/Visuels/RéussitesEchecs/reussiteEchec.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
-- Assets/Kings/Nice2020/CartesNice2020/CinématiquesCartes/cinematiques.png
+- Assets/Kings/Nice2020/Visuels/Cinématiques/cinematiques.png
 - Assets/Kings/Nice2020/Visuels/Epreuves/epreuves.png
 - Assets/Kings/Nice2020/Visuels/Ingrédients/ingredients.png
 - Assets/Kings/Nice2020/Visuels/Jeux/jeux.png

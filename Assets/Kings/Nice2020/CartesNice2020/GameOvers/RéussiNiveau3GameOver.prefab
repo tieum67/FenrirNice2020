@@ -357,7 +357,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textFields:
     titleText:
-      textContent: Bravp !
+      textContent: Bravo !
       textField: {fileID: 114090687538468844}
     questionText:
       textContent: "Le loup est enchain\xE9, c'est gagn\xE9 !"
@@ -740,7 +740,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 114806189092995140}
-        m_MethodName: GlobalMessage
+        m_MethodName: SendMessage
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -748,6 +748,17 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: preGameover
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 114806189092995140}
+        m_MethodName: GlobalMessage
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: gameover
           m_BoolArgument: 0
         m_CallState: 2
   OnSwipeLeft:

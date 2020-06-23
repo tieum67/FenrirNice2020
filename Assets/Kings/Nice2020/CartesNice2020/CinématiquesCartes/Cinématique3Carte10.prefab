@@ -380,7 +380,7 @@ MonoBehaviour:
       modifiers:
         valueChanges: []
         extras: []
-        followUpCard: {fileID: 6368609166076856932, guid: f026fa335ccb7164eb3a20673408f20e,
+        followUpCard: {fileID: 6368609166076856932, guid: d159e9b8fcf105943919652a63705d63,
           type: 3}
         followUpDelay:
           min: 0
@@ -521,7 +521,7 @@ MonoBehaviour:
       modifiers:
         valueChanges: []
         extras: []
-        followUpCard: {fileID: 6368609166076856932, guid: f026fa335ccb7164eb3a20673408f20e,
+        followUpCard: {fileID: 6368609166076856932, guid: d159e9b8fcf105943919652a63705d63,
           type: 3}
         followUpDelay:
           min: 0
