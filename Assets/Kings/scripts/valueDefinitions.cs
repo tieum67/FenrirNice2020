@@ -36,6 +36,7 @@ public class valueDefinitions : MonoBehaviour {
 		Niveau3,
 		JaugesDieuxetLoup,
 		JaugeLoupFinal,
+		Cinematique1Jouee,
 
 
 	}

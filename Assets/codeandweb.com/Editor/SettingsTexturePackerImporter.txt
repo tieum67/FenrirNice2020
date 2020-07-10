@@ -2,22 +2,22 @@ version: 2
 importPivots: 1
 tpsheetFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
-- Assets/Kings/Nice2020/Visuels/Cinématiques/cinematiques.tpsheet
-- Assets/Kings/Nice2020/Visuels/Epreuves/epreuves.tpsheet
-- Assets/Kings/Nice2020/Visuels/Ingrédients/ingredients.tpsheet
-- Assets/Kings/Nice2020/Visuels/Jeux/jeux.tpsheet
-- Assets/Kings/Nice2020/Visuels/Personnages/personnages.tpsheet
-- Assets/Kings/Nice2020/Visuels/Recettes/recettes.tpsheet
-- Assets/Kings/Nice2020/Visuels/RéussitesEchecs/reussiteEchec.tpsheet
+- Assets/Nice2020/Visuels/Cinématiques/cinematiques.tpsheet
+- Assets/Nice2020/Visuels/Epreuves/epreuves.tpsheet
+- Assets/Nice2020/Visuels/Ingrédients/ingredients.tpsheet
+- Assets/Nice2020/Visuels/Jeux/jeux.tpsheet
+- Assets/Nice2020/Visuels/Personnages/personnages.tpsheet
+- Assets/Nice2020/Visuels/Recettes/recettes.tpsheet
+- Assets/Nice2020/Visuels/RéussitesEchecs/reussiteEchec.tpsheet
 textureFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites.png
-- Assets/Kings/Nice2020/Visuels/Cinématiques/cinematiques.png
-- Assets/Kings/Nice2020/Visuels/Epreuves/epreuves.png
-- Assets/Kings/Nice2020/Visuels/Ingrédients/ingredients.png
-- Assets/Kings/Nice2020/Visuels/Jeux/jeux.png
-- Assets/Kings/Nice2020/Visuels/Personnages/personnages.png
-- Assets/Kings/Nice2020/Visuels/Recettes/recettes.png
-- Assets/Kings/Nice2020/Visuels/RéussitesEchecs/reussiteEchec.png
+- Assets/Nice2020/Visuels/Cinématiques/cinematiques.png
+- Assets/Nice2020/Visuels/Epreuves/epreuves.png
+- Assets/Nice2020/Visuels/Ingrédients/ingredients.png
+- Assets/Nice2020/Visuels/Jeux/jeux.png
+- Assets/Nice2020/Visuels/Personnages/personnages.png
+- Assets/Nice2020/Visuels/Recettes/recettes.png
+- Assets/Nice2020/Visuels/RéussitesEchecs/reussiteEchec.png
 normalmapFileNames:
 - Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
 - 

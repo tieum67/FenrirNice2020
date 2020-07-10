@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Kings/theMayor/Mayor_Game.unity
     guid: 19e643b694641ca4c8a017815efca19d
   - enabled: 1
-    path: Assets/Kings/Nice2020/Nice2020.unity
+    path: Assets/Nice2020/Nice2020.unity
     guid: b9230272f5a8a954fbe9d0db28842a54
   m_configObjects: {}
