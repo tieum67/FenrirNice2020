@@ -61,7 +61,7 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
       propertyPath: textFields.titleText.textContent
-      value: "Tant mieux fenrir n'aime pas l'eau, mais Thor \xE9tait all\xE9 loin
+      value: "all\xE9 loin pour chercher ce granit marin. Thor \xE9tait all\xE9 loin
         pour chercher ce granit marin."
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,

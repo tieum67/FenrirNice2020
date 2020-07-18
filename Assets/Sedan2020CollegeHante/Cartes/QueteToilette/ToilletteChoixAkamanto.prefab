@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4220339470387771114
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1818390954452748, guid: 280e6509c8c09514399d83f13e649946, type: 3}
+      propertyPath: m_Name
+      value: ToilletteChoixAkamanto
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: Results.resultLeft.modifiers.valueChanges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: Results.resultUp.modifiers.valueChanges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: Results.resultDown.modifiers.valueChanges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: textFields.titleText.textContent
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: textFields.questionText.textContent
+      value: "Il nous propose deux sortes de papier toilette.Mais on peut aussi le
+        d\xE9foncer. Gauche pour le papier rouge, droite pour le papier bleu, en haut
+        pour le frapper."
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: textFields.answerLeft.textContent
+      value: Papier rouge
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: textFields.answerRight.textContent
+      value: Papier bleu
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: textFields.answerUp.textContent
+      value: On le frappe
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: textFields.answerDown.textContent
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: Results.resultLeft.modifiers.followUpCard
+      value: 
+      objectReference: {fileID: 726980276747653159, guid: 98545292991f6864185047507dc6e350,
+        type: 3}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: Results.resultRight.modifiers.followUpCard
+      value: 
+      objectReference: {fileID: 5226274988000710443, guid: 49ea89668fc123e4cb3420a263218356,
+        type: 3}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: Results.resultUp.modifiers.followUpCard
+      value: 
+      objectReference: {fileID: 9163143566907742330, guid: 0433c9e1e9018fe40a6b15279299c0b2,
+        type: 3}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -150
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 840
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 1240
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 280e6509c8c09514399d83f13e649946, type: 3}

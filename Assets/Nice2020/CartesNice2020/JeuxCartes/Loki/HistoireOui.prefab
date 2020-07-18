@@ -57,7 +57,7 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
       propertyPath: textFields.titleText.textContent
-      value: "Loki raconte tellement bien, FENRIR est \xE9merveill\xE9..."
+      value: "Loki raconte tellement bien, Fenrir est \xE9merveill\xE9..."
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}

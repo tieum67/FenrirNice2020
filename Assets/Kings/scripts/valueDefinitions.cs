@@ -2,7 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class valueDefinitions : MonoBehaviour {
+public class valueDefinitions
+	: MonoBehaviour {
 
 	/*
 	 * Define all your values of the game here.
@@ -10,13 +11,14 @@ public class valueDefinitions : MonoBehaviour {
 	 * show easy dropdown menues e.g. for conditions or value modifications.
 	 */
 
-	public enum values{
+	public enum values
+	{
 		name,
 		surname,
 		gender,
 		country,
 		years,
-		loup,
+		loupop,
 		dieux,
 		bruitpascarte,
 		touxpoissoncarte,
@@ -26,8 +28,8 @@ public class valueDefinitions : MonoBehaviour {
 		tendonourscarte,
 		loupfinal,
 		NiveauLoupFinal,
-		NbCartesJouéesNiv1,
-		NbCartesJouéesNiv2,
+		NbCartesJoueesNiv1,
+		NbCartesJoueesNiv2,
 		Cinematique1,
 		Cinematique2,
 		Cinematique3,
@@ -37,6 +39,10 @@ public class valueDefinitions : MonoBehaviour {
 		JaugesDieuxetLoup,
 		JaugeLoupFinal,
 		Cinematique1Jouee,
+		Peur,
+		Moral,
+		Forme,
+		ChatBlancJoue,
 
 
 	}

@@ -142,7 +142,7 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.data[1].valueAdd
-      value: 5
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 114853187802903376, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}

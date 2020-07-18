@@ -601,7 +601,7 @@ MonoBehaviour:
       max: 0
   - modificationType: 0
     modifier: 6
-    valueAdd: 5
+    valueAdd: -10
     valueSet: 0
     rndRangeAdd:
       min: 0

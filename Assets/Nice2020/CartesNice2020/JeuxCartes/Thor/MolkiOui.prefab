@@ -61,7 +61,7 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
       propertyPath: textFields.titleText.textContent
-      value: FENRIR est maladroit, les dieux se moquent de lui...
+      value: Fenrir est maladroit, les dieux se moquent de lui...
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}

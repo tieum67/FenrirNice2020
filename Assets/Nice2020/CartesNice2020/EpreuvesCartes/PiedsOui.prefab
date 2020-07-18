@@ -61,7 +61,7 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
       propertyPath: textFields.titleText.textContent
-      value: Ca donne le tournis, FENRIR se sent mal et les dieux aiment le voir affaibli
+      value: Ca donne le tournis, Fenrir se sent mal et les dieux aiment le voir affaibli
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}

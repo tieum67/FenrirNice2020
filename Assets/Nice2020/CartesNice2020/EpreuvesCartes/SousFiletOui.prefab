@@ -61,7 +61,7 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
       propertyPath: textFields.titleText.textContent
-      value: Trop facile, FENRIR s'en sort en moins de 2 secondes !
+      value: Trop facile, Fenrir s'en sort en moins de 2 secondes !
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}

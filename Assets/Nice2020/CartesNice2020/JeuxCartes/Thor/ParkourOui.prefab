@@ -61,7 +61,7 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
       propertyPath: textFields.titleText.textContent
-      value: "C'est trop dur FENRIr ne veut pas aller au bout et les dieux sont d\xE9cus."
+      value: "C'est trop dur Fenrir ne veut pas aller au bout et les dieux sont d\xE9cus."
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}

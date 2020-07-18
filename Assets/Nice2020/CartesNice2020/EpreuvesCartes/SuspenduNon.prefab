@@ -61,7 +61,7 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
       propertyPath: textFields.titleText.textContent
-      value: "Les dieux sont d\xE9cus, mais au moins FENRIR n'est pas malade !"
+      value: "Les dieux sont d\xE9cus, mais au moins Fenrir n'est pas malade !"
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}

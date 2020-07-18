@@ -61,8 +61,8 @@ PrefabInstance:
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
       propertyPath: textFields.titleText.textContent
-      value: AHRRRRR ! Ca fait trop mal au cou, mais les dieux sont tranquilles quelques
-        temps...
+      value: AHRRRRR ! Cela fait trop mal au cou, mais les dieux sont tranquilles
+        quelques temps...
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: b66fd34150fb24643b2f4febb79a50b8,
         type: 3}
