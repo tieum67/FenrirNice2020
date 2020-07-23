@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -308,8 +308,7 @@ MonoBehaviour:
       modifiers:
         valueChanges: []
         extras: []
-        followUpCard: {fileID: 1818390954452748, guid: fb6ff4f2f4bf5f14084e7246c9a9cd4a,
-          type: 3}
+        followUpCard: {fileID: 0}
         followUpDelay:
           min: 0
           max: 0
@@ -449,8 +448,7 @@ MonoBehaviour:
       modifiers:
         valueChanges: []
         extras: []
-        followUpCard: {fileID: 1818390954452748, guid: 879899a57cba47341838255a90fb57c3,
-          type: 3}
+        followUpCard: {fileID: 0}
         followUpDelay:
           min: 0
           max: 0
@@ -589,17 +587,7 @@ MonoBehaviour:
   swipeType: 0
   additionalChoices: 0
   changeExtrasOnCardDespawn: []
-  changeValueOnCardDespawn:
-  - modificationType: 0
-    modifier: 15
-    valueAdd: 1
-    valueSet: 0
-    rndRangeAdd:
-      min: 0
-      max: 0
-    rndRangeSet:
-      min: 0
-      max: 0
+  changeValueOnCardDespawn: []
   OnCardSpawn:
     m_PersistentCalls:
       m_Calls: []
@@ -670,8 +658,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 2.4, y: -1.4}
-  m_SizeDelta: {x: 687.1, y: 1073.4}
+  m_AnchoredPosition: {x: -1, y: 15.5}
+  m_SizeDelta: {x: 518.3, y: 1053.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &222561243514118444
 CanvasRenderer:
@@ -844,7 +832,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
   m_RaycastTarget: 0
   m_OnCullStateChanged:
     m_PersistentCalls:

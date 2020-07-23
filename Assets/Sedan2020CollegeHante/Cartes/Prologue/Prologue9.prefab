@@ -112,6 +112,21 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 8247691549091109986, guid: 0bc2b8a6797f95c4e9b47922ae7f6208,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8247691549091109986, guid: 0bc2b8a6797f95c4e9b47922ae7f6208,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8247691549091109986, guid: 0bc2b8a6797f95c4e9b47922ae7f6208,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8248995190209357880, guid: 0bc2b8a6797f95c4e9b47922ae7f6208,
         type: 3}
       propertyPath: textFields.questionText.textContent
@@ -142,8 +157,23 @@ PrefabInstance:
         type: 3}
       propertyPath: Results.resultRight.modifiers.followUpCard
       value: 
-      objectReference: {fileID: 6600561613237778582, guid: a8c5e2348d2faef42916faa4114f797d,
+      objectReference: {fileID: 6760809951195097674, guid: 4180f8e24a5089f4f850a5471b3874f0,
         type: 3}
+    - target: {fileID: 8249182995991388178, guid: 0bc2b8a6797f95c4e9b47922ae7f6208,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249182995991388178, guid: 0bc2b8a6797f95c4e9b47922ae7f6208,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8249182995991388178, guid: 0bc2b8a6797f95c4e9b47922ae7f6208,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8352975119039969348, guid: 0bc2b8a6797f95c4e9b47922ae7f6208,
         type: 3}
       propertyPath: m_Name

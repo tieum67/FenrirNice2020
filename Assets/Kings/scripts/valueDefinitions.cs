@@ -43,6 +43,9 @@ public class valueDefinitions
 		Moral,
 		Forme,
 		ChatBlancJoue,
+		QueteDanse,
+		QueteToilette,
+		QueteCantine,
 
 
 	}

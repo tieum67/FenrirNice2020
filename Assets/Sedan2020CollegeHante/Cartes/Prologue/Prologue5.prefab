@@ -7,6 +7,51 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2887970160032375072, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2887970160032375072, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2887970160032375072, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2889870296126981166, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2889870296126981166, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2889870296126981166, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2890029418455702864, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2890029418455702864, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2890029418455702864, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2890148917044630906, guid: 4da92a3c228928341aaa4cedb921ab6f,
         type: 3}
       propertyPath: textFields.questionText.textContent

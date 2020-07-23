@@ -11,6 +11,36 @@ PrefabInstance:
       propertyPath: m_Name
       value: Prologue14SansChatBlanc
       objectReference: {fileID: 0}
+    - target: {fileID: 114423703276466468, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114423703276466468, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114423703276466468, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114616901005016922, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114616901005016922, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114616901005016922, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
         type: 3}
       propertyPath: changeValueOnCardDespawn.Array.size
@@ -90,6 +120,36 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5576497053148403068, guid: 749dce6a64d29ef4e9e7f6b219ca5edb,
         type: 3}
+    - target: {fileID: 114808958985317090, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114808958985317090, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114808958985317090, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114947929046483754, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114947929046483754, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114947929046483754, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
         type: 3}
       propertyPath: m_LocalPosition.x

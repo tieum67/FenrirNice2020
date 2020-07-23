@@ -10,7 +10,7 @@ PrefabInstance:
     - target: {fileID: 2181522642949916659, guid: ea8c03f12043fcc44880b1d0f6588bb2,
         type: 3}
       propertyPath: textFields.questionText.textContent
-      value: "Vas y Ch\xE9pa, on va pas y passer la nuit"
+      value: "Avant tout... un passage aux toilettes pour Ch\xE9pa  !"
       objectReference: {fileID: 0}
     - target: {fileID: 2181522642949916659, guid: ea8c03f12043fcc44880b1d0f6588bb2,
         type: 3}

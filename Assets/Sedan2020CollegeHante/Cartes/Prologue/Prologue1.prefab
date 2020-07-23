@@ -7,6 +7,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2887970160032375072, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2887970160032375072, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2887970160032375072, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2889963127192455710, guid: 4da92a3c228928341aaa4cedb921ab6f,
         type: 3}
       propertyPath: m_Sprite
@@ -16,6 +31,26 @@ PrefabInstance:
     - target: {fileID: 2889963127192455710, guid: 4da92a3c228928341aaa4cedb921ab6f,
         type: 3}
       propertyPath: m_PreserveAspect
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2890029418455702864, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2890029418455702864, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2890029418455702864, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2890148917044630906, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.size
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2890148917044630906, guid: 4da92a3c228928341aaa4cedb921ab6f,
@@ -30,6 +65,21 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 8921501557103054934, guid: 63307bac74c0a5d4e871c32b8df0902a,
         type: 3}
+    - target: {fileID: 2890148917044630906, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[0].modificationType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2890148917044630906, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[0].modifier
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 2890148917044630906, guid: 4da92a3c228928341aaa4cedb921ab6f,
+        type: 3}
+      propertyPath: changeValueOnCardDespawn.Array.data[0].valueSet
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2993262997582169350, guid: 4da92a3c228928341aaa4cedb921ab6f,
         type: 3}
       propertyPath: m_Name

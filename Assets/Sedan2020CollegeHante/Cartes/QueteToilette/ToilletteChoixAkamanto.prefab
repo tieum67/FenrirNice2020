@@ -33,6 +33,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
         type: 3}
+      propertyPath: Results.resultRight.modifiers.valueChanges.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
+        type: 3}
       propertyPath: textFields.titleText.textContent
       value: 
       objectReference: {fileID: 0}
@@ -67,19 +72,19 @@ PrefabInstance:
         type: 3}
       propertyPath: Results.resultLeft.modifiers.followUpCard
       value: 
-      objectReference: {fileID: 726980276747653159, guid: 98545292991f6864185047507dc6e350,
+      objectReference: {fileID: 7032538301202189103, guid: 910842d3af2e1c94182c721b651a0a8f,
         type: 3}
     - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
         type: 3}
       propertyPath: Results.resultRight.modifiers.followUpCard
       value: 
-      objectReference: {fileID: 5226274988000710443, guid: 49ea89668fc123e4cb3420a263218356,
+      objectReference: {fileID: 7032538301202189103, guid: 901ce13a3f4b11649b0b660621f6286e,
         type: 3}
     - target: {fileID: 114734209699886960, guid: 280e6509c8c09514399d83f13e649946,
         type: 3}
       propertyPath: Results.resultUp.modifiers.followUpCard
       value: 
-      objectReference: {fileID: 9163143566907742330, guid: 0433c9e1e9018fe40a6b15279299c0b2,
+      objectReference: {fileID: 1713121614139811208, guid: 29fd95f6b1f070246879d65e9ee09bae,
         type: 3}
     - target: {fileID: 224275568673289112, guid: 280e6509c8c09514399d83f13e649946,
         type: 3}

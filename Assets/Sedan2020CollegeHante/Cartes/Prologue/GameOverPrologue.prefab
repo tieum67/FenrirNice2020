@@ -13,6 +13,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
         type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
       propertyPath: textFields.titleText.textContent
       value: 
       objectReference: {fileID: 0}
@@ -30,6 +35,76 @@ PrefabInstance:
         type: 3}
       propertyPath: textFields.questionText.textContent
       value: Fin de l'aventure. Tu crois que dans la vie on s'en sort tout seul?
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 7266739193409985543}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 7266739193409985543}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: GlobalMessage
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: preGameover
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: GlobalMessage
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: OnCardDespawn.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_StringArgument
+      value: gameover
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: isHighPriorityCard
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: maxDraws
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 224275568673289112, guid: f73be9bf93954454080c0fece5ae630a,
         type: 3}
@@ -138,3 +213,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f73be9bf93954454080c0fece5ae630a, type: 3}
+--- !u!114 &7266739193409985543 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114011970101671240, guid: f73be9bf93954454080c0fece5ae630a,
+    type: 3}
+  m_PrefabInstance: {fileID: 7299676954508208463}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eb28b3bcaaf8304cbe105d65ccc31d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
