@@ -7,11 +7,11 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: 
-    guid: 2834e451a27ad414fa9c58c28df81dfe
+    guid: 00000000000000000000000000000000
   - enabled: 0
-    path: Assets/Kings/theMayor/Mayor_Game.unity
-    guid: 19e643b694641ca4c8a017815efca19d
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Nice2020/Nice2020.unity
-    guid: b9230272f5a8a954fbe9d0db28842a54
+    path: Assets/Sedan2020CollegeHante/SedanCollegeHante2020.unity
+    guid: fc33a03089b2d6745a23a96803e58aaf
   m_configObjects: {}

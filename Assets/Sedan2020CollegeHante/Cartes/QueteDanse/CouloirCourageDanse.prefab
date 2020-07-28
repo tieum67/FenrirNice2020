@@ -17,6 +17,18 @@ PrefabInstance:
       value: Ce couloir connait nos peurs, c'est sans doute une illusion. Traversons
         sans crainte !
       objectReference: {fileID: 0}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: Results.resultLeft.modifiers.followUpCard
+      value: 
+      objectReference: {fileID: 7785498474335067379, guid: 4d25d76f4e4e4864c9eb0531a88a3049,
+        type: 3}
+    - target: {fileID: 114734209699886960, guid: f73be9bf93954454080c0fece5ae630a,
+        type: 3}
+      propertyPath: Results.resultRight.modifiers.followUpCard
+      value: 
+      objectReference: {fileID: 7785498474335067379, guid: 4d25d76f4e4e4864c9eb0531a88a3049,
+        type: 3}
     - target: {fileID: 224275568673289112, guid: f73be9bf93954454080c0fece5ae630a,
         type: 3}
       propertyPath: m_LocalPosition.x
